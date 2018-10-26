@@ -5,11 +5,11 @@ Création d'un forum en temps réel avec fonctionnalité d'ajout d'articles et d
 ## Technologie utilisées
 Node JS, framework Loopback, Broker MQTT
 
-###Install avec git
+### Install avec git
 lancer dans un terminale  CMD la commande suivant : git clone https://github.com/matt470/forum_MSII.git
 
-####Installer les dependances
+#### Installer les dependances
 npm install
 
-###Lancer l'application
+##### Lancer l'application
 node .
